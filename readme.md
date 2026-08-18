@@ -17,8 +17,11 @@ The website displays:
 
 ## Screenshots
 
-![ISS Tracker Screenshot 1](screenshots/ISS1.png)
-![ISS Tracker Screenshot 2](screenshots/ISS2.png)
+### Desktop
+![ISS Tracker Desktop Screenshot](screenshots/ISS.png)
+
+### Mobile
+![ISS Tracker Mobile Screenshot 1](screenshots/ISS-Mobile.png)
 
 ## Technologies Used
 
