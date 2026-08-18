@@ -4,7 +4,7 @@ I built this project to practice working with APIs using Node.js and Express.
 
 The website gets live information about the International Space Station from the Where The ISS At API and displays its current location and other tracking information. I also added Google Maps using the latitude and longitude from the API to show where the ISS is currently located.
 
-## What It Does
+## Features
 
 The website displays:
 
